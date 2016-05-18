@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <array name="images">
+    <item>@drawable/image1</item>
+    <item>@drawable/image4</item>
+    <item>@drawable/image3</item>
+    <item>@drawable/image4</item>
+    <item>@drawable/image5</item>
+    <item>@drawable/image6</item>
+    <item>@drawable/image7</item>
+    <item>@drawable/image8</item>
+    <item>@drawable/image9</item>
+
+  </array>
+
+  <string-array name="names">
+    <item>Puppy1</item>
+    <item>Puppy2</item>
+    <item>Puppy3</item>
+    <item>Puppy4</item>
+    <item>Puppy5</item>
+    <item>Puppy6</item>
+    <item>Puppy7</item>
+    <item>Puppy8</item>
+    <item>Puppy9</item>
+
+  </string-array>
+
+  <string-array name="descriptions">
+    <item>Dogs have a higher metabolism than people. They breathe faster, pump blood faster, mature faster, and have a higher normal body temperature </item>
+    <item>During the short, shallow breaths in panting, little air can be exchanged in the lungs. In fact, dogs must stop panting periodically to take a good respiratory breath.</item>
+    <item>Drinking water also helps dogs cool down, and the canine hair coat helps insulate from the sun.</item>
+    <item>Keeping dogs wet during the heat of the day provides a method of evaporative cooling. Plenty of cool, fresh drinking water should be available at all times.</item>
+    <item>Dogs can see movement and light much better than people. In the retina of the eye, dogs have more of a specific type of cell called a rod, which is good at collecting dim light, so they have better night vision</item>
+    <item>The ear canal of the dog is much deeper than that of people and creates a better funnel to carry sound to the ear drum.</item>
+    <item>Dogs have an extraordinarily acute sense of smell; it is about a million times more sensitive than that of people.</item>
+    <item>Dogs also have an organ on the roof of the mouth that allows them to “taste” certain smells. </item>
+    <item>Keeping dogs wet during the heat of the day provides a method of evaporative cooling.</item>
+  </string-array>
+
+  <string-array name="gender">
+    <item>Female</item>
+    <item>Male</item>
+    <item>Female</item>
+    <item>Male</item>
+    <item>Female</item>
+    <item>Female</item>
+    <item>Female</item>
+    <item>Male</item>
+    <item>Female</item>
+    <item>Female</item>
+    <item>Male</item>
+  </string-array>
+</resources>
